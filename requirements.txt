@@ -1,0 +1,12 @@
+pandas
+numpy
+langdetect
+dash
+plotly
+scikit-learn
+pyarrow 
+fastparquet
+dash-bootstrap-components
+flask-caching
+langdetect
+openai
